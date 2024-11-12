@@ -1,3 +1,13 @@
+---
+title: fontend-infra
+published: 2023-09-01
+description: 'Read more about frontend infra knowledge in guang_blog'
+image: ''
+tags: [infra, frontend]
+category: 'infra'
+draft: false 
+---
+
 ## 1. 前端工程化
 
 ### 1.1 webpack
