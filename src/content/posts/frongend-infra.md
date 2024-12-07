@@ -1,6 +1,6 @@
 ---
 title: fontend-infra
-published: 2023-09-01
+published: 2023-06-01
 description: 'Read more about frontend infra knowledge in guang_blog'
 image: ''
 tags: [infra, frontend]
@@ -111,6 +111,14 @@ tree shaking：
 压缩代码： terser、br、gzip
 
 Cdn: 静态资源包cdn加速
+
+#### 1.1.12 process.env 项目环境变量
+
+由webpack + dotenv + webpack DefinePlugin形成的工具链
+
+Dotenv 加载 .env 文件，添加到process.env属性上，如果env有与系统环境变量重复的则跳过。
+
+问题1: dotenv在node环境运行，但是我们的代码在浏览器运行，那么环境变量上如何注入的，很明显是在打包的时候进行了静态注入。DefinePlugin内置插件在编译时将代码中的process.env相关变量替换为其他值
 
 ### 1.2 vite
 

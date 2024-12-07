@@ -39,6 +39,28 @@ window.screen.width表示设备屏幕宽度，不会因为缩放网页而改变
 
 # 三、 JavaScript
 
+1. 数据类型
+
+   基本数据类型：Null、Undefined、String、Symbol、Object、Number、BigInt
+
+   判断基本数据类型： typeof 返回小写类型字符串
+
+   判断对象数据类型： a instanceof  b 原理是查找该类型b是否在对象a的原型链上
+
+2. Object.is 和 === 的区别
+
+   Object.is 认为 +0 -0 不等 但 NaN 和 NaN相等，===则相反
+
+3. Var 、const、let
+
+   var 有变量提升、添加全局属性、重复声明
+
+   Const、let 存在暂时性死区，const需要初始值且不可变
+
+   
+
+4. 
+
 1. 事件循环
 
 先执行主线程的同步代码，遇到异步任务会将其推到任务队列中，同步代码执行完毕后，事件循环会去检测微任务队列，取出所有微任务放入主线程执行，然后再到宏任务队列取出下一个任务执行，这个过程不断循环，形成事件循环
