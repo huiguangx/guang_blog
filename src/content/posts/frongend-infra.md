@@ -1,10 +1,10 @@
 ---
-title: fontend-infra
+title: 前端构建工具
 published: 2023-06-01
 description: 'Read more about frontend infra knowledge in guang_blog'
 image: ''
-tags: [infra, frontend]
-category: 'infra'
+tags: [构建工具, 工程化]
+category: '前端工程化'
 draft: false 
 ---
 
