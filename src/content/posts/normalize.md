@@ -1,8 +1,8 @@
 ---
-title: Frontend Normalize
+title: 前端规范化
 published: 2023-09-01
-tags: [infra, frontend]
-category: infra
+tags: [规范]
+category: 前端规范
 draft: false
 ---
 
