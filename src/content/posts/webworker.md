@@ -1,6 +1,6 @@
 ---
 title: WebWorker
-published: 2024-3-23
+published: 2024-03-23
 description: 'Learn about WebWorker in frontend development.'
 image: ''
 tags: [WebWorker, 多线程, 前端性能优化]
