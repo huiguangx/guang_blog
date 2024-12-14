@@ -1,7 +1,7 @@
 ---
 title: Three.js 入门
 published: 2023-12-12
-description: 'Read more about 3D graphics and Three.js in guang_blog'
+description: '记录一下Three.js 的入门使用'
 image: ''
 tags: [Three.js, 3D图形, Web开发]
 category: '前端开发'
