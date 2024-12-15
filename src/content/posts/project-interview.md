@@ -1,6 +1,6 @@
 ---
 title: 项目总结
-published: 2024-10-01
+published: 2023-10-01
 description: A simple example of a Markdown blog post.
 tags: [面试, 前端, 前端项目]
 category: 面试
