@@ -1,6 +1,6 @@
 ---
 title: vue3封装弹框组件
-published: 2023-8-17
+published: 2023-08-17
 description: '弹框组件封装思路，结合vue特性如何优雅的封装弹框'
 image: ''
 tags: [组件封装]
