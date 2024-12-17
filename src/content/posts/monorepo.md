@@ -1,6 +1,6 @@
 ---
 title: monorepo架构
-published: 2024-03-29
+published: 2024-04-29
 description: '文章将探讨 Monorepo 的概念及其在现代软件开发中的应用价值，分析从 Multirepo 迁移到 Monorepo 的实际项目经验，以及主流工具（如 Turborepo）的选择和使用。'
 image: ''
 tags: [前端工程化, 工程化]
