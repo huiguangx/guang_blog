@@ -64,7 +64,7 @@ draft: false
 
 [TCP 为什么三次握手而不是两次握手（正解版）_萧萧九宸的博客-CSDN博客_tcp为什么是三次握手不是两次握手](https://blog.csdn.net/lengxiao1993/article/details/82771768)
 
-<img src="C:\Users\冼慧光\AppData\Roaming\Typora\typora-user-images\image-20220423105004088.png" alt="image-20220423105004088" style="zoom: 33%;" />
+![image-20241217122718019](/Users/guang/Library/Application Support/typora-user-images/image-20241217122718019.png)
 
 ​								图里的过程可能需要自己描述一下
 
@@ -151,7 +151,7 @@ HTTP**2.0**相比HTTP**1.1**支持的特性：
 
 - 为什么要四次挥手：由于 TCP 的半关闭特性，TCP 提供了连接的一端在结束它的发送后还能接收来自另一端数据的能力，也就是说客户端单方面关闭连接还能接收到服务端的数据报文，服务端需要把所有报文都发送完才会关闭自己的连接。通俗的来说，两次握手就可以释放一端到另一端的 TCP 连接，完全释放连接一共需要四次握手。
 
-  <img src="C:\Users\冼慧光\AppData\Roaming\Typora\typora-user-images\image-20220423120123834.png" alt="image-20220423120123834" style="zoom: 50%;" />
+  ![image-20241217122236709](/Users/guang/Library/Application Support/typora-user-images/image-20241217122236709.png)
 
   细节描述可能需要自己归纳一下
 
@@ -225,8 +225,6 @@ DNS域名解析系统
 
 6. 浏览器得到域名对应的IP地址
 
-   <img src="C:\Users\冼慧光\AppData\Roaming\Typora\typora-user-images\image-20220423151426753.png" alt="image-20220423151426753" style="zoom: 50%;" />
-
    > 拓展：优化====减少dns查找，dns预获取，延长dns缓存时间，使用cdn加速域名等
 
 ### [4]	TCP和HTTP的区别
@@ -241,7 +239,7 @@ DNS域名解析系统
 
 ### [4]	TCP流量控制和拥塞控制
 
-<img src="C:\Users\冼慧光\AppData\Roaming\Typora\typora-user-images\image-20220423102617440.png" alt="image-20220423102617440" style="zoom:50%;" />
+![image-20241217122554109](/Users/guang/Library/Application Support/typora-user-images/image-20241217122554109.png)
 
 - 流量控制：控制发送方的发送速率，让接收方来得及接收数据，作用对象是发送端和接收端
 
