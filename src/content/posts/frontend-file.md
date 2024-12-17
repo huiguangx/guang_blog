@@ -1,6 +1,6 @@
 ---
 title: 前端文件处理API
-published: 2022-09-29
+published: 2022-06-29
 description: '处理文件和二进制数据是一个常见需求，例如上传图片、读取文件内容、与服务器进行二进制数据交互等。这些操作通常涉及 Blob、File、FileReader 和 ArrayBuffer。'
 image: ''
 tags: [文件处理]

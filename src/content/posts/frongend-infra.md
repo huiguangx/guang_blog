@@ -1,9 +1,9 @@
 ---
 title: 前端构建工具
-published: 2023-06-01
-description: 'Read more about frontend infra knowledge in guang_blog'
+published: 2023-03-01
+description: '前端工程化的碎碎念，温故而知新'
 image: ''
-tags: [构建工具, 工程化]
+tags: [前端工程化]
 category: '前端工程化'
 draft: false 
 ---

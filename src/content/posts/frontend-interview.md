@@ -1,9 +1,9 @@
 ---
 title: 前端面试
-published: 2023-09-01
+published: 2023-06-01
 description: 'Read more about frontend interview knowledge in guang_blog'
 image: ''
-tags: [面试, 面试题目]
+tags: [面试]
 category: '前端面试'
 draft: false 
 ---

@@ -1,7 +1,7 @@
 ---
-title: 移动端前端
-published: 2022-12-15
-description: '移动端前端'
+title: 移动端适配
+published: 2022-09-15
+description: '深入解析移动端适配方案，探索不同屏幕尺寸与分辨率下的最佳实践，实现高效、流畅的用户体验。'
 image: ''
 tags: [移动端]
 category: '移动端'

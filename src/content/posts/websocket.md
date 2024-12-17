@@ -1,7 +1,7 @@
 ---
 title: WebSocket
-published: 2023-09-19
-description: 'websocket 技术详解与实践'
+published: 2023-11-19
+description: 'websocket技术详解与实践'
 image: ''
 tags: [网络协议, websocket]
 category: '计算机网络'

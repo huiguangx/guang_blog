@@ -1,6 +1,6 @@
 ---
 title: IM通信技术：短轮询、长轮询、SSE、WebSocket
-published: 2024-12-16
+published: 2023-10-16
 description: 'IM通信技术：短轮询、长轮询、SSE、WebSocket'
 image: ''
 tags: [IM]
