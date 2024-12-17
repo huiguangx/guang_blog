@@ -1,6 +1,6 @@
 ---
 title: TypeScript
-published: 2024-03-29
+published: 2024-02-18
 description: '理解TypeScript中的范型应用，提升TypeScript项目的开发效率以及代码复用率'
 image: ''
 tags: [TypeScript]

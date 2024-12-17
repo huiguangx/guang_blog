@@ -1,6 +1,6 @@
 ---
 title: WebWorker
-published: 2024-03-23
+published: 2024-01-02
 description: '本博客将探讨 WebWorker 如何利用多线程技术显著提升 Web 应用性能，以及在常见场景中的最佳实践和注意事项。'
 image: ''
 tags: [WebWorker, 多线程, 前端性能优化]
